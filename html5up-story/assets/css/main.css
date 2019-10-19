@@ -3475,6 +3475,7 @@ input, select, textarea {
 			width: 50%;
 			max-width: 48rem;
 			margin: 0 auto;
+			text-align: center;
 		}
 
 		.banner.style1 .image {
